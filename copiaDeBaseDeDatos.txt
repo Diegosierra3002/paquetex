@@ -77,9 +77,9 @@ insert into conductor values
 (03,'Andres','154848','calleb 34','1000000','cali','12345','camiones/ejemplo.png');
 
 insert into camiones values
-(001,'2006','foton','1000','img/camioncito'),
-(002,'2015','jag','1500','img/camioncito'),
-(003,'2003','fuso','3000','img/camioncito');
+(001,'2006','foton','1000','img/camioncito001'),
+(002,'2015','jag','1500','img/camioncito002'),
+(003,'2003','fuso','3000','img/camioncito003');
 
 insert into infoDeEntrega values(1,'paris');
 
