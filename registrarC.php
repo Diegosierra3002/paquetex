@@ -12,7 +12,7 @@
 
 			<form action="nuevoCamionero.php" method="POST">
 		<div class="mb-3">
-              <label for="txtIDcamionero" class="form-label">IDCamionero</label>
+              <label for="txtIDcamionero" class="form-label">Cedula</label>
               <input type="text" name="txtIDcamionero" class="form-control" id="txtcedula"required>
         </div>
 		<div class="mb-3">
@@ -40,7 +40,7 @@
                 <input type="text" name="txtMatricula" class="form-control" id="txtapellido"required>
         </div>
 		
-		<form action="guardarImagen.php" method="POST" enctype="multipart/form-data"/>Agregar imagen: <input name="archivo"  id="archivo" type="file"/>
+		<form action="guardarImagen.php" method="POST" enctype="multipart/form-data"/>Seleccione Una Foto Del Conductor: <input name="archivo"  id="archivo" type="file"/>
 <input type="submit" class="btn btn-success" name="subir" value="Registrar"/>
 </form>
 

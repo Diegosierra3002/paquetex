@@ -31,7 +31,7 @@
                 <input type="text" name="txtPotencia" class="form-control" id="txtPotencia"required>
         </div>
 		
-		Agregar imagen: <input name="txtarchivo"  id="txtarchivo" type="file"/>
+		Seleccione Una Foto Del Veiculo: <input name="txtarchivo"  id="txtarchivo" type="file"/>
 <input type="submit" class="btn btn-success" name="subirimg" value="Registrar"/>
 
 

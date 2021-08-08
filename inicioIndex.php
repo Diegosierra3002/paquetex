@@ -3,6 +3,8 @@
 		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 			<i class="bi bi-door-open-fill"></i>
 		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+		
+		<link rel="icon" type="image/png" href="img/MiFaviconP.png">
 	</head>
 	
 <body> 
@@ -21,9 +23,9 @@
 						<li class="nav-item dropdown">
 						</li>
 					<br>
-						<a href="login.php"<button type="button" style="margin: 10px" class="btn btn-success">Iniciar Seccion</button></a>
+						<a href="login.php"<button type="button" style="margin: 10px" class="btn btn-success">Inicia Sesión</button></a>
 						</ul>
-						<a href="Documentos/ManualDeUsuario.docx"><button type="button" class="btn btn-outline-success">Manual De Usuario</button></a>
+						<a href="Documentos/ManualDeUsuarioPaquetex.pptx"><button type="button" class="btn btn-outline-success">Manual De Usuario</button></a>
 				</div>
 		</div>
 	</nav>
