@@ -4,10 +4,6 @@
 		<i class="bi bi-door-open-fill"></i>
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 	<link rel="icon" type="image/png" href="img/Favicon/MiFaviconP.png">
-	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
-
-</svg>
-
 </head>
 	
 <body>
@@ -22,28 +18,28 @@
 			</button>
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 		    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+		  
+					<li class="nav-item dropdown">
+					  <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+						<li><a class="dropdown-item" href="#">Action</a></li>
+						<li><a class="dropdown-item" href="#">Another action</a></li>
+						<li><hr class="dropdown-divider"></li>
+						<li><a class="dropdown-item" href="#">Something else here</a></li>
+					  </ul>
+					</li>
 			
 					<a href="registrarC.php"<button style="margin: 10px" type="button" class="btn btn-success">Registro De Camionero</button></a>
 					<a href="VerCamiones.php"<button style="margin: 10px" type="button" class="btn btn-success">Registrar Camiones</button></a>
 					<a href="VerPaquetes.php"<button style="margin: 10px" type="button" class="btn btn-success">Registrar Paquetes</button></a>
 					<a href="AdministrarEnvios.php"<button style="margin: 10px" type="button" class="btn btn-success">Generar Envios</button></a>
-					<a href="EliminarCamionero.php"<button style="margin: 10px" type="button" class="btn btn-outline-danger">Eliminar Camionero</button> </a>
-					
-						  </ul>
-						</div>
-		
 			</ul>
-			
 			<ul class='navbar-nav me-auto mb-2 mb-lg-0 text-end'>
-			
-				<li class="nav-item"></li>
-				
-
-				<a class="nav-link" href="CerrarSecion.php"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-power" viewBox="0 0 16 16"><path d="M7.5 1v7h1V1h-1z"/><path d="M3 8.812a4.999 4.999 0 0 1 2.578-4.375l-.485-.874A6 6 0 1 0 11 3.616l-.501.865A5 5 0 1 1 3 8.812z"/>
-						</svg><i class='bi bi-power'></i>Cerrar sesión</a>
-						</button>
-						
-	</ul>
+				<li class="nav-item">
+				</li>
+						<a class="nav-link" href="CerrarSecion.php">
+						<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-power" viewBox="0 0 16 16"><path d="M7.5 1v7h1V1h-1z"/><path d="M3 8.812a4.999 4.999 0 0 1 2.578-4.375l-.485-.874A6 6 0 1 0 11 3.616l-.501.865A5 5 0 1 1 3 8.812z"/>
+						</svg><i class='bi bi-power'></i>Cerrar sesión</a>				
+			</ul>
 		  
 		</div>
 	</nav>

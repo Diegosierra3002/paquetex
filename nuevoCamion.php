@@ -42,7 +42,6 @@
 					'$archivo;
 					 )";
 					 //FALTA EJECUTAR CONSULTA!!!!
-					 
 			header('location: index.php');
         }
         else {
@@ -59,7 +58,6 @@
 
  echo $sql;
  $datos = $conexion->query($sql) or die ("Error Interno...");
-
 
 ?>
 

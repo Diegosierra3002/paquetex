@@ -1,0 +1,8 @@
+hacer el mismo proseso en guardar camiones 
+
+con la conexion db ($_REQUEST[txtIDcamionero],'$_REQUEST[txtNombre]','$_REQUEST[txtTelefono]
+
+
+preguntrle al profesor 	que esta mal en esta conexion a verPaquetes.php
+
+		preguntar que hacer con nuevoCamion.php
