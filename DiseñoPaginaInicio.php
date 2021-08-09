@@ -32,6 +32,7 @@
 					<a href="VerCamiones.php"<button style="margin: 10px" type="button" class="btn btn-success">Registrar Camiones</button></a>
 					<a href="VerPaquetes.php"<button style="margin: 10px" type="button" class="btn btn-success">Registrar Paquetes</button></a>
 					<a href="AdministrarEnvios.php"<button style="margin: 10px" type="button" class="btn btn-success">Generar Envios</button></a>
+					<a href="EliminarCamionero.php"<button style="margin: 10px" type="button" class="btn btn-outline-danger">Eliminar Camionero</button> </a>
 			</ul>
 			<ul class='navbar-nav me-auto mb-2 mb-lg-0 text-end'>
 				<li class="nav-item">
